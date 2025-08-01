@@ -2,3 +2,8 @@
 
 <img width="1306" height="721" alt="Snapshot of Dashboard" src="https://github.com/user-attachments/assets/4f601a03-3f50-4e92-b21d-ef0469296bc9" />
 
+## Steps Involved: 
+- Data Import: Gathered and imported raw sales data into the system.
+- Data Cleaning: Ensured data integrity and consistency by removing duplicates, correcting errors, and standardizing formats.
+- Data Transformation: Prepared the data for analysis by performing necessary calculations, aggregations, and structuring.
+- Dashboard Creation: Designed a user-friendly, interactive dashboard to visualize and analyze key sales metrics.
