@@ -7,3 +7,9 @@
 - Data Cleaning: Ensured data integrity and consistency by removing duplicates, correcting errors, and standardizing formats.
 - Data Transformation: Prepared the data for analysis by performing necessary calculations, aggregations, and structuring.
 - Dashboard Creation: Designed a user-friendly, interactive dashboard to visualize and analyze key sales metrics.
+
+## Project Insight
+- Maharashtra and Madhya Pradesh together contribute over 50% of total sales, with Maharashtra leading at 27%.
+- Cash on Delivery (COD) is the dominant payment mode, accounting for 44% of total quantity sold.
+- Clothing leads all categories, contributing 63% of total units sold, indicating strong consumer demand.
+- Printers generate the highest profit among sub-categories, making up nearly 30% of overall profit
